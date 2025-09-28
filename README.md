@@ -30,7 +30,7 @@ The system detects the number of fingers shown to a webcam and lights up the cor
 ---
 
 ## 🎥 Demo
-[▶️ Watch the Demo Video](<video-demo.mp4>)
+[▶️ Watch the Demo Video](<https://github.com/agarisha-crypto/hand-gesture-leds/blob/main/demo-video.mp4>)
 
 ---
 
